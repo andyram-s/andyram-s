@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyram1685
 - 👀 I’m interested in AI, IOT, SRE, Systems Engineering
-- 🌱 I’m currently learning Machines
+- 🌱 I’m currently learning a coursera course titled Machine Learning.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
