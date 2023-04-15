@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andyram
+- 👋 Hi, I’m @andyram-s
 - 👀 I’m interested in AI, IOT, SRE, Systems Engineering
 - 🌱 I’m currently learning a coursera course titled Machine Learning.
 - 💞️ I’m looking to collaborate on 
